@@ -8,6 +8,12 @@
 .electric {
   background-color: #f8d030;
 }
+.grass {
+  background-color: #78c850;
+}
+.fire {
+  background-color: #f08030;
+}
 .pokemon-card {
   width: 10em;
   margin: 10px
